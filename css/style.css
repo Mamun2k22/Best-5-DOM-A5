@@ -8,7 +8,12 @@
 
 
 }
-
+.banner{position: relative; width: ; margin: 0 auto;}
+    .banner img{width: 100%;}
+    .hedding{position:absolute; width: 100%; top: 30%; left: 450px; font-size: 50px; font-weight: 700; color: rgb(251, 255, 6);}
+    .paragrap-1{position:absolute; width: 100% ; top: 50%; left: 450px; font-size: 25px; font-weight: 500; color: beige;}
+    .paragrap-2{position:absolute; width: 100% ; top: 60%; left: 450px; font-size: 25px; font-weight: 500; color: beige;}
+   
 
 
 
